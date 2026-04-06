@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# .NET
+bin/
+obj/
+Debug/
+Release/
+*.user
+*.suo
+
+# Node
+node_modules/
+dist/
+build/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db

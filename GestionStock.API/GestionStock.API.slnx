@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../GestionStock.Application/GestionStock.Application/GestionStock.Application.csproj" />
+  <Project Path="../GestionStock.Domain/GestionStock.Domain/GestionStock.Domain.csproj" />
+  <Project Path="../GestionStock.Infrastructure/GestionStock.Infrastructure/GestionStock.Infrastructure.csproj" />
+  <Project Path="GestionStock.API/GestionStock.API.csproj" />
+</Solution>
